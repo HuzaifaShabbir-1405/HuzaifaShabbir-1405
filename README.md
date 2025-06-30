@@ -9,13 +9,15 @@
 
 - 📫 How to reach me **mhuzaifa.shabbir1405@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1of3RqBQKvIY5dzMYokGMgXNpCFAR8xsM/view?usp=sharing](https://drive.google.com/file/d/1of3RqBQKvIY5dzMYokGMgXNpCFAR8xsM/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1of3RqBQKvIY5dzMYokGMgXNpCFAR8xsM/view?usp=sharing)
 
 - ⚡ Fun Facts **- 🧠 I love creative writing, deep conversations, and learning new things - 🌱 I’ve co-founded NGOs and led social impact projects in Pakistan - 🏉 I play rugby and enjoy staying active**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/huzi1405/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huzi1405/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/huzi1405/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzi1405" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
